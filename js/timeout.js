@@ -1,0 +1,1 @@
+setTimeout(() => console.log('print once'), 1000);
